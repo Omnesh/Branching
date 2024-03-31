@@ -12,5 +12,6 @@ module Branching {
 	// commit 4 on git hub
 	// branch1 commit 1
 	// branch1 commit 2
-	//branch2
+	//master
+
 }
